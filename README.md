@@ -1,5 +1,5 @@
 # Barbeiro_Dorminhoco_C
-Implantação do desafio barbeiro dorminhoco em C, com semaphores
+Implantação do desafio barbeiro dorminhoco em C, com semaphores e multi processos
 
 ## Introdução
 Este projeto foi dado como trabalho para entrega pelo professor Cesar Tegani Tofanini, na matéria de Programação distribuída, paralela e concorrente na Universidade Padre Anchieta de Jundiaí - SP. E tem como o objetivo implantar o desafio do Barbeiro Dorminhoco utilizando semaphores na linguagem C, sem a utilização de Mutex.
